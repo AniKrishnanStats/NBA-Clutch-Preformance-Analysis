@@ -13,7 +13,7 @@ This project analyzes NBA shot data to evaluate players' clutch performance.
 
 Future work in this program will oversee the followoing:
 - Ability to compare various players
-- Implmentation of advanced statistics and probability to further review a player's "clutchness"
+- Implementation of advanced statistics and probability to further review a player's "clutchness"
 - Analyzing different metrics to effective a player's clutch score such as type of shot and if defender was present within a defined proximity.
   
 
